@@ -1,0 +1,14 @@
+/* styles.css */
+
+div.container {
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div.contents {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
